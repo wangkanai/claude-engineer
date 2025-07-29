@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# AI Assistant
+*.ai
+repomix-output.xml
+repomix-output.json
+repomix-output.md
+
 # Mac OS Platform
 .DS_Store
 
